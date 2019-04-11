@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "short_name": "Khanjadi",
+  "start_url": "https://www.khan.web.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-53JT20x_H_E/XK8xD-cOHCI/AAAAAAAAOq4/wZLd12t7RJUOg3D3I299UfTV-sLl_kjpQCLcBGAs/s1600/favicon-16x16.png",
+    "sizes": "16x16",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-53JT20x_H_E/XK8xD-cOHCI/AAAAAAAAOq4/wZLd12t7RJUOg3D3I299UfTV-sLl_kjpQCLcBGAs/s1600/favicon-16x16.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/4.bp.blogspot.com/-6cJ11dzAJT8/XK8yF9QRAyI/AAAAAAAAOrM/Ug-UdjHh63M-uoOl0lHlkzlgahkM16_JACLcBGAs/s1600/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/3.bp.blogspot.com/-RE1eik2OeHI/XK8y0rduscI/AAAAAAAAOrU/L3dm6sAVlyMHPCQUJ8jPhAZCK7bmIuN7wCLcBGAs/s320/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
